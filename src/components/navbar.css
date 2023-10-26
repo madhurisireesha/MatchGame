@@ -1,0 +1,29 @@
+.navcontainer{
+    background-color: #2c0e3a;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding:10px;
+}
+.nav2{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin:10px;
+}
+.timecontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.logo{
+    height:5vh;
+    width:10vw;
+}
+.alarm{
+    width:3vw;
+    height:3vh;
+   
+}

@@ -1,0 +1,12 @@
+.displayimage{
+    width:15vw;
+    height:20vh;
+}
+.displayimage{
+    padding:10px;
+    border-radius: 10px;
+}
+.imgbtn{
+    background: none;
+    border:none;
+}

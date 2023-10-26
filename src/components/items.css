@@ -1,0 +1,14 @@
+.tab_btn{
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    color:white;
+    padding:20px;
+    font-size: 20px;
+    background-color: #2c0e3a;
+    
+}
+.active-tab-btn{
+    border-bottom: 2px solid #fec653;
+    color:#fec653;
+}
